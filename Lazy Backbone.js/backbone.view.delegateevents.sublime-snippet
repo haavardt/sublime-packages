@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+delegateEvents(${1:[events]})
+]]>
+    </content>
+    <tabTrigger>bvdelegateEvents</tabTrigger>
+    <scope>source.js</scope>
+    <description>Backbone.js view delegateEvents</description>
+</snippet>

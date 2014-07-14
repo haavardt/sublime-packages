@@ -1,0 +1,19 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Emmet",
+		"Git",
+		"HTML5",
+		"HTMLBeautify",
+		"jQuery",
+		"JsFormat",
+		"Lazy Backbone.js",
+		"LESS",
+		"LESS-build",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter"
+	]
+}
